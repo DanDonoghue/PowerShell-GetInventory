@@ -66,3 +66,5 @@ $Software
 ```
 
 Filtered list is a list of regular expressions that are ignored for software listings. Example contained in [ApplicationFilter.csv](https://github.com/DanDonoghue/PowerShell-GetInventory/files/11185821/ApplicationFilter.csv)
+
+![CT-HTML-Example png](https://user-images.githubusercontent.com/9416314/230783942-fcb86c13-722d-42cc-b687-a41c00369d37.png)
